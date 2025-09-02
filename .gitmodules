@@ -1,6 +1,3 @@
-[submodule "ProtonMail/ProtonMailUITests/TestData"]
-	path = ProtonMail/ProtonMailUITests/TestData
-	url = https://gitlab.protontech.ch/tpe/TestData.git
 [submodule "ProtonMail/ProtonMail/Resource/APP_share/DOMPurify"]
 	path = ProtonMail/ProtonMail/Resource/APP_share/DOMPurify
 	url = https://github.com/cure53/DOMPurify
