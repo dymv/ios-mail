@@ -83,24 +83,6 @@
         }
       },
       {
-        "package": "ProtonInboxICal",
-        "repositoryURL": "https://gitlab.protontech.ch/apple/inbox/protoninboxical",
-        "state": {
-          "branch": null,
-          "revision": "0451bb3dafcad5c50ea68699db45d7fec559f991",
-          "version": "1.3.0"
-        }
-      },
-      {
-        "package": "ProtonInboxRSVP",
-        "repositoryURL": "https://gitlab.protontech.ch/apple/inbox/protoninboxrsvp",
-        "state": {
-          "branch": null,
-          "revision": "d3e2057a5a2e69d1d32b2a87b6d72ec244ef3b13",
-          "version": "2.8.2"
-        }
-      },
-      {
         "package": "Reachability",
         "repositoryURL": "https://github.com/ashleymills/Reachability.swift",
         "state": {

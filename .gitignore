@@ -24,3 +24,5 @@ ProtonMail/ProtonMail.xcworkspace/xcshareddata/*
 !ProtonMail/ProtonMail.xcworkspace/xcshareddata/swiftpm
 ProtonMail/ProtonMail.xcworkspace/xcshareddata/swiftpm/*
 !ProtonMail/ProtonMail.xcworkspace/xcshareddata/swiftpm/Package.resolved
+
+.build/
